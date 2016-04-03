@@ -1,0 +1,7 @@
+# coding=gbk
+'''
+Created on 2016Äê4ÔÂ1ÈÕ
+
+@author: lenovo
+'''
+print("yurenjiekuaile")
